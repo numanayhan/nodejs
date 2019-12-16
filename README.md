@@ -11,6 +11,8 @@ NodeJS kütüphanesi ile WebSocket örneği yapıldı.
 Echo Sitesi ve Origin kullanıldı.
 
 Değişiklik için geliştirmeye devam edilecektir.
+Extra v2 : Push Notification ile baglanacaktir. (Firebase)
+
 
 ## Installing
 
