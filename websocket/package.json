@@ -1,0 +1,21 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "npm": "^6.13.4",
+    "ws": "^7.2.1"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
